@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902546829378",
+    "firebase_url": "https://homecomfortscontrol.firebaseio.com",
+    "project_id": "homecomfortscontrol",
+    "storage_bucket": "homecomfortscontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902546829378:android:fe0778445ff11a26",
+        "android_client_info": {
+          "package_name": "com.oregan.euan.homecomfortscontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902546829378-hrh8jate5ju50469b53g8nisdt9p3dad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oregan.euan.homecomfortscontrol",
+            "certificate_hash": "dccb1d8d5597742fcfdaf4c037b1bfe44c9f1449"
+          }
+        },
+        {
+          "client_id": "902546829378-q1n1r0sj74q6e46aqjmrfbqu2dfe7dng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6CsTnXfwzEuY9fghT7AfP80Y7Y8S_owE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902546829378-q1n1r0sj74q6e46aqjmrfbqu2dfe7dng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

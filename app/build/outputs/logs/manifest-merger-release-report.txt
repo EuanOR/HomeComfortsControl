@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6887e5997f80cbf11ba07b46dfdb82a0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5320f6ddd308be0bb95e0db27032713\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa93b7e246fc37ad60455196e6e0a2c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b941b415efe6f7a255f8980efb3c6595\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\7f7a0063f552a7a6ab0324c66fb8fb19\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1eddabb53d8c52778fd9f7182ab13d44\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\4fa7dd01825723ff65dc9f4927e73413\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bc352d719f18ace4da8215d67aa3d86b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\9dc4319017ec7a81d876cb386b2a30f1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\783ccda0b2a9ea210ec86c1896658b79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\446d1e02a944f6edfdf528f1fc42cf35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b754ffb98f9d4be900c4ef35d35bd95c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\215f31b46b9d871a663714b0e9b2ba22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f53db04077ab5ac7ca22dcb0ebc0e53c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee87b6230e55e59b74986528e8989997\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c8858e8c7f093c0cb875502c36a0c28a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\32e2f27fe1dbf6f0becdf53a0d12a989\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a608f8c2125fb4580805949e0d5643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0da46025e6b73af29ecfb50894d7f187\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1f32857854d88fc59cf7bced2581e5ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\270a77857d8eba0f1612ee7855824715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e22017774c261679e8eb4f41b142d79d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6606a480c511543e481d5f17fc843918\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8c60aba9bacf9c9b44ba4cc158394562\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1daa8858de323af757fa5f4d61f5378d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf3a4dbd2ece40c845db12628e5530db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\031388981963977f85e75765794c70e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\990aeea9a77d3dbbeb454b80a73db176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c40130643481ee4e2587d890bbfa6f9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4f099d0c16cbb31b9681033e96cd7e17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\40a1e58e82e4c54a52f0621491e47ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b46f369c6d245be14ff37a73936ff192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c0368e7f4cf3e4b59d102a600b6ce917\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d791b4a1bc008f0054281fb8ba0822a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6b1c0f22345a7c13241108307b2d5fcd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd5f5482908bbb527c997c54e235be8b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:4:5-50
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\4fa7dd01825723ff65dc9f4927e73413\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\4fa7dd01825723ff65dc9f4927e73413\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:9:5-66:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6887e5997f80cbf11ba07b46dfdb82a0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6887e5997f80cbf11ba07b46dfdb82a0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa93b7e246fc37ad60455196e6e0a2c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa93b7e246fc37ad60455196e6e0a2c5\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b941b415efe6f7a255f8980efb3c6595\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b941b415efe6f7a255f8980efb3c6595\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1eddabb53d8c52778fd9f7182ab13d44\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1eddabb53d8c52778fd9f7182ab13d44\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bc352d719f18ace4da8215d67aa3d86b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bc352d719f18ace4da8215d67aa3d86b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1daa8858de323af757fa5f4d61f5378d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1daa8858de323af757fa5f4d61f5378d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:15:9-40
+receiver#com.oregan.euan.homecomfortscontrol.WeatherChecker
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:18:9-21:40
+	android:enabled
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:20:13-35
+	android:exported
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:19:13-43
+activity#com.oregan.euan.homecomfortscontrol.MainActivity
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.oregan.euan.homecomfortscontrol.DehumidifierActivity
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:31:13-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:34:13-36:84
+	android:value
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:35:17-63
+activity#com.oregan.euan.homecomfortscontrol.HumidifierActivity
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:38:9-45:20
+	android:parentActivityName
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:41:13-55
+	android:label
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:39:13-47
+activity#com.oregan.euan.homecomfortscontrol.AirConActivity
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:46:9-53:20
+	android:parentActivityName
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:49:13-55
+	android:label
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:47:13-43
+activity#com.oregan.euan.homecomfortscontrol.HeatingActivity
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:54:9-61:20
+	android:parentActivityName
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:57:13-55
+	android:label
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:55:13-44
+meta-data#preloaded_fonts
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:63:9-65:57
+	android:resource
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:65:13-54
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:64:13-43
+uses-sdk
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6887e5997f80cbf11ba07b46dfdb82a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6887e5997f80cbf11ba07b46dfdb82a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5320f6ddd308be0bb95e0db27032713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5320f6ddd308be0bb95e0db27032713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa93b7e246fc37ad60455196e6e0a2c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa93b7e246fc37ad60455196e6e0a2c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b941b415efe6f7a255f8980efb3c6595\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\b941b415efe6f7a255f8980efb3c6595\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\7f7a0063f552a7a6ab0324c66fb8fb19\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\7f7a0063f552a7a6ab0324c66fb8fb19\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1eddabb53d8c52778fd9f7182ab13d44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1eddabb53d8c52778fd9f7182ab13d44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\4fa7dd01825723ff65dc9f4927e73413\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\4fa7dd01825723ff65dc9f4927e73413\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bc352d719f18ace4da8215d67aa3d86b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\bc352d719f18ace4da8215d67aa3d86b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\9dc4319017ec7a81d876cb386b2a30f1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\9dc4319017ec7a81d876cb386b2a30f1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\783ccda0b2a9ea210ec86c1896658b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\783ccda0b2a9ea210ec86c1896658b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\446d1e02a944f6edfdf528f1fc42cf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\446d1e02a944f6edfdf528f1fc42cf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b754ffb98f9d4be900c4ef35d35bd95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b754ffb98f9d4be900c4ef35d35bd95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\215f31b46b9d871a663714b0e9b2ba22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\215f31b46b9d871a663714b0e9b2ba22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f53db04077ab5ac7ca22dcb0ebc0e53c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f53db04077ab5ac7ca22dcb0ebc0e53c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee87b6230e55e59b74986528e8989997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee87b6230e55e59b74986528e8989997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c8858e8c7f093c0cb875502c36a0c28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c8858e8c7f093c0cb875502c36a0c28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\32e2f27fe1dbf6f0becdf53a0d12a989\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\32e2f27fe1dbf6f0becdf53a0d12a989\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a608f8c2125fb4580805949e0d5643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87a608f8c2125fb4580805949e0d5643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0da46025e6b73af29ecfb50894d7f187\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0da46025e6b73af29ecfb50894d7f187\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1f32857854d88fc59cf7bced2581e5ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1f32857854d88fc59cf7bced2581e5ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\270a77857d8eba0f1612ee7855824715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\270a77857d8eba0f1612ee7855824715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e22017774c261679e8eb4f41b142d79d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e22017774c261679e8eb4f41b142d79d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6606a480c511543e481d5f17fc843918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6606a480c511543e481d5f17fc843918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8c60aba9bacf9c9b44ba4cc158394562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8c60aba9bacf9c9b44ba4cc158394562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a8c133f0e4231c519c2fb8d74d2b6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1daa8858de323af757fa5f4d61f5378d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1daa8858de323af757fa5f4d61f5378d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf3a4dbd2ece40c845db12628e5530db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf3a4dbd2ece40c845db12628e5530db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\031388981963977f85e75765794c70e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\031388981963977f85e75765794c70e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\990aeea9a77d3dbbeb454b80a73db176\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\990aeea9a77d3dbbeb454b80a73db176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c40130643481ee4e2587d890bbfa6f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c40130643481ee4e2587d890bbfa6f9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4f099d0c16cbb31b9681033e96cd7e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4f099d0c16cbb31b9681033e96cd7e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\40a1e58e82e4c54a52f0621491e47ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\40a1e58e82e4c54a52f0621491e47ef4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b46f369c6d245be14ff37a73936ff192\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b46f369c6d245be14ff37a73936ff192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c0368e7f4cf3e4b59d102a600b6ce917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c0368e7f4cf3e4b59d102a600b6ce917\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d791b4a1bc008f0054281fb8ba0822a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d791b4a1bc008f0054281fb8ba0822a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6b1c0f22345a7c13241108307b2d5fcd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6b1c0f22345a7c13241108307b2d5fcd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd5f5482908bbb527c997c54e235be8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd5f5482908bbb527c997c54e235be8b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\472ba65a84f2476125dc741fe520d9dd\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7d658832065c489c51e61c130035c4e2\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\1988f3b80e8de82a1eff7c6c6ac78e4a\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c34bbe0f27aa589f2e14e8c91e75838b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\47bf5659829b51c272c412407218fa23\AndroidManifest.xml:27:13-51

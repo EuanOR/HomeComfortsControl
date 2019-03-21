@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.oregan.euan.homecomfortscontrol">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".BedroomActivity"></activity>
+        <activity android:name=".RoomsActivity" />
+        <activity android:name=".KitchenActivity" />
+        <activity android:name=".OverallControls" />
+        <activity android:name=".LightsActivity" />
+
+        <receiver
+            android:name=".WeatherChecker"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DehumidifierActivity"
+            android:label="Dehumidifier Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.oregan.euan.homecomfortscontrol.MainActivity" />
+        </activity>
+        <activity
+            android:name=".HumidifierActivity"
+            android:label="Humidifier Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.oregan.euan.homecomfortscontrol.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AirConActivity"
+            android:label="AirCon Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.oregan.euan.homecomfortscontrol.MainActivity" />
+        </activity>
+        <activity
+            android:name=".HeatingActivity"
+            android:label="Heating Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.oregan.euan.homecomfortscontrol.MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
