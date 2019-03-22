@@ -1146,6 +1146,12 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
+id dryerButton
+id dryerEditText
+id dryerStateText
+id dryerSwitch
+id dryerTemperatureText
+id dryerText
 id ebLevelEditText
 id ebLevelText
 id ebStateText
@@ -1399,6 +1405,7 @@ layout activity_lights
 layout activity_main
 layout activity_overall_controls
 layout activity_rooms
+layout activity_utility_room
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1509,6 +1516,10 @@ string default_web_client_id
 string dehumidifierMenu
 string dehumidifier_information
 string descriptionTitle
+string dryerButtonString
+string dryerStateText
+string dryerTemperatureTextString
+string dryerTextString
 string ebLevelTextString
 string ebState
 string ebTextString

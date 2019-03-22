@@ -12,14 +12,18 @@ public class RoomsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rooms);
     }
+    public void launchBedroom(View view) {
+        Intent intent = new Intent(this, BedroomActivity.class);
+        startActivity(intent);
+    }
 
     public void launchKitchen(View view) {
         Intent intent = new Intent(this, KitchenActivity.class);
         startActivity(intent);
     }
 
-    public void launchBedroom(View view) {
-        Intent intent = new Intent(this, BedroomActivity.class);
+    public void launchUtilityRoom(View view) {
+        Intent intent = new Intent(this, UtilityRoom.class);
         startActivity(intent);
     }
 }

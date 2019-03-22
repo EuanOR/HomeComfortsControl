@@ -14,7 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".BedroomActivity"></activity>
+        <activity android:name=".UtilityRoom"></activity>
+        <activity android:name=".BedroomActivity" />
         <activity android:name=".RoomsActivity" />
         <activity android:name=".KitchenActivity" />
         <activity android:name=".OverallControls" />

@@ -50,4 +50,8 @@
     <string name="ebTextString">Electric Blanket:</string>
     <string name="ebState" />
     <string name="ebLevelTextString">Level:</string>
+    <string name="dryerTextString">Dryer:</string>
+    <string name="dryerStateText" />
+    <string name="dryerTemperatureTextString">Temperature:</string>
+    <string name="dryerButtonString">Update Temperature</string>
 </resources>

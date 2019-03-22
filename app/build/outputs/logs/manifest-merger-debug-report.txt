@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4b31c9db8674661933385cc233b022ff\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ea6e08f4c66883b2c2569692b1a94c10\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a12aa1264e09f582422655b8c294c36\AndroidManifest.xml:2:1-11:12
@@ -56,22 +56,22 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Euan\.gradle\caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e3bf218ca2942dad60688c82c20e30e0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ab543603bc012c8f73fc87d00bfff02\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\fb0fd3c738a39aac43464fe49cf920b6\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
 	package
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:4:5-50
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-73:12
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:1-74:12
 		INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:2:11-69
@@ -94,7 +94,7 @@ ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\
 	android:name
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:7:22-76
 application
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:9:5-71:19
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:9:5-72:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4b31c9db8674661933385cc233b022ff\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4b31c9db8674661933385cc233b022ff\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Euan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a12aa1264e09f582422655b8c294c36\AndroidManifest.xml:9:5-20
@@ -159,92 +159,96 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Euan\.grad
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.oregan.euan.homecomfortscontrol.UtilityRoom
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:17:9-58
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:17:19-46
 activity#com.oregan.euan.homecomfortscontrol.BedroomActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:17:9-62
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:18:9-53
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:17:19-50
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:18:19-50
 activity#com.oregan.euan.homecomfortscontrol.RoomsActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:18:9-51
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:19:9-51
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:18:19-48
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:19:19-48
 activity#com.oregan.euan.homecomfortscontrol.KitchenActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:19:9-53
-	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:19:19-50
-activity#com.oregan.euan.homecomfortscontrol.OverallControls
 ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:20:9-53
 	android:name
 		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.oregan.euan.homecomfortscontrol.OverallControls
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:21:19-50
 activity#com.oregan.euan.homecomfortscontrol.LightsActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:21:9-52
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:22:9-52
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:21:19-49
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:22:19-49
 receiver#com.oregan.euan.homecomfortscontrol.WeatherChecker
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:23:9-26:40
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:24:9-27:40
 	android:enabled
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:25:13-35
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:26:13-35
 	android:exported
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:24:13-43
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:25:13-43
 activity#com.oregan.euan.homecomfortscontrol.MainActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:29:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.oregan.euan.homecomfortscontrol.DehumidifierActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:35:9-42:20
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:36:9-43:20
 	android:parentActivityName
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:38:13-55
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:39:13-55
 	android:label
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:37:13-50
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:38:13-50
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:36:13-49
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:37:13-49
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:39:13-41:84
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:40:13-42:84
 	android:value
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:41:17-81
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:40:17-63
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:41:17-63
 activity#com.oregan.euan.homecomfortscontrol.HumidifierActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:43:9-50:20
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:44:9-51:20
 	android:parentActivityName
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:46:13-55
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:47:13-55
 	android:label
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:45:13-48
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:46:13-48
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:44:13-47
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:45:13-47
 activity#com.oregan.euan.homecomfortscontrol.AirConActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:51:9-58:20
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:52:9-59:20
 	android:parentActivityName
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:54:13-55
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:55:13-55
 	android:label
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:53:13-44
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:54:13-44
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:52:13-43
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:53:13-43
 activity#com.oregan.euan.homecomfortscontrol.HeatingActivity
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:59:9-66:20
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:60:9-67:20
 	android:parentActivityName
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:62:13-55
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:63:13-55
 	android:label
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:61:13-45
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:62:13-45
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:60:13-44
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:61:13-44
 meta-data#preloaded_fonts
-ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:68:9-70:57
+ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:69:9-71:57
 	android:resource
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:70:13-54
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:71:13-54
 	android:name
-		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:69:13-43
+		ADDED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml:70:13-43
 uses-sdk
 INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Euan\AndroidStudioProjects\HomeComfortsControl\app\src\main\AndroidManifest.xml

@@ -60,6 +60,7 @@
         android:textSize="36sp"
         android:textStyle="bold"
         android:typeface="normal"
+        android:onClick="launchUtilityRoom"
         app:fontFamily="@font/catamaran_thin"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

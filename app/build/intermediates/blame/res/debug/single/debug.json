@@ -1356,6 +1356,10 @@
         "source": "C:\\Users\\Euan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ea6e08f4c66883b2c2569692b1a94c10\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
+        "merged": "C:\\Users\\Euan\\AndroidStudioProjects\\HomeComfortsControl\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_utility_room.xml.flat",
+        "source": "C:\\Users\\Euan\\AndroidStudioProjects\\HomeComfortsControl\\app\\src\\main\\res\\layout\\activity_utility_room.xml"
+    },
+    {
         "merged": "C:\\Users\\Euan\\AndroidStudioProjects\\HomeComfortsControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Euan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ea6e08f4c66883b2c2569692b1a94c10\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
