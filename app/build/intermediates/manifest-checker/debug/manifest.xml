@@ -28,6 +28,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.oregan.euan.homecomfortscontrol.UtilityRoom" />
+        <activity android:name="com.oregan.euan.homecomfortscontrol.BedroomActivity" />
         <activity android:name="com.oregan.euan.homecomfortscontrol.RoomsActivity" />
         <activity android:name="com.oregan.euan.homecomfortscontrol.KitchenActivity" />
         <activity android:name="com.oregan.euan.homecomfortscontrol.OverallControls" />

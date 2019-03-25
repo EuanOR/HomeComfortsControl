@@ -62,17 +62,7 @@ public class HeatingActivity extends AppCompatActivity {
                     heatingState.setText(offText);
                     heatingSwitch.setChecked(false);
                 }
-            }
 
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
-                Log.d("Failed to connect to DB",databaseError.getDetails());
-            }
-        });
-
-        db.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 boolean automatedState = dataSnapshot.child("heating").child("automated")
                         .getValue(boolean.class);
                 if(automatedState){
@@ -85,7 +75,7 @@ public class HeatingActivity extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
-                Log.d("Firebase Error:",databaseError.getDetails());
+                Log.d("Failed to connect to DB",databaseError.getDetails());
             }
         });
     }

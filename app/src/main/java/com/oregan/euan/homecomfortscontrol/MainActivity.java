@@ -12,6 +12,7 @@ import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.location.Location;
 import android.os.SystemClock;
+import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -26,13 +27,22 @@ import com.google.android.gms.location.FusedLocationProviderClient;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.FirebaseApp;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 
 public class MainActivity extends AppCompatActivity {
 
+    FirebaseDatabase database = FirebaseDatabase.getInstance();
+    DatabaseReference housedb = database.getReference("house");
+
     private NotificationManager weatherNotificationManager;
     private static final int NOTIFICATION_ID = 0;
     private static final String PRIMARY_CHANNEL_ID = "primary_notification_channel";
+    private boolean notificationDelivered =  false;
 
     private TextView locationValueString;
     private TextView tempValueString;
@@ -41,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
 
     long repeatInterval = AlarmManager.INTERVAL_HOUR;
     long triggerTime = SystemClock.elapsedRealtime() + repeatInterval;
+
+    double heatingLow;
 
     //private FusedLocationProviderClient mFusedLocationClient;
     //Location userLocation;
@@ -57,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
         conditionValueString = findViewById(R.id.condition_value);
 
         //mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
+        initSetup();
 
         syncWithRTInfo();
 
@@ -125,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void deliverNotification(Context context) {
         Intent contentIntent = new Intent(context, MainActivity.class);
+        String notificationString = String.format("Temperature has dropped below your set threshold. Consider activating your heating system.");
 
         PendingIntent contentPendingIntent =
                 PendingIntent.getActivity
@@ -133,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
         NotificationCompat.Builder builder = new NotificationCompat.Builder(context, PRIMARY_CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_launcher_foreground)
                 .setContentTitle("Temperature change")
-                .setContentText("Weather has dropped below...")
+                .setContentText(notificationString)
                 .setContentIntent(contentPendingIntent)
                 .setPriority(NotificationCompat.PRIORITY_HIGH)
                 .setAutoCancel(true)
@@ -155,9 +169,12 @@ public class MainActivity extends AppCompatActivity {
         AlarmManager weatherChecker = (AlarmManager) getSystemService(ALARM_SERVICE);
 
         if (weatherChecker != null) {
-            weatherChecker.setInexactRepeating
-                    (AlarmManager.ELAPSED_REALTIME_WAKEUP,
-                            triggerTime, repeatInterval, weatherPendingIntent);
+            if (! notificationDelivered && heatingLow < Double.parseDouble(tempValueString.toString())) {
+                weatherChecker.setInexactRepeating
+                        (AlarmManager.ELAPSED_REALTIME_WAKEUP,
+                                triggerTime, repeatInterval, weatherPendingIntent);
+                notificationDelivered = true;
+            }
         }
 
         //boolean alarmUp = (PendingIntent.getBroadcast(this, NOTIFICATION_ID, weatherIntent,
@@ -192,6 +209,21 @@ public class MainActivity extends AppCompatActivity {
 
     }
 */
+
+   private void initSetup(){
+       housedb.addValueEventListener(new ValueEventListener() {
+           @Override
+           public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+               heatingLow = dataSnapshot.child("heating/low").getValue(long.class).doubleValue();
+               Log.d("Firebase temp", String.valueOf(heatingLow));
+           }
+
+           @Override
+           public void onCancelled(@NonNull DatabaseError databaseError) {
+               Log.d("Firebase Error:",databaseError.getDetails());
+           }
+       });
+   }
 
     public void launchHeating(View view) {
         Intent intent = new Intent(this, HeatingActivity.class);

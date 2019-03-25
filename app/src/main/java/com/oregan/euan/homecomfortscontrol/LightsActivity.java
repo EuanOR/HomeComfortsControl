@@ -65,6 +65,14 @@ public class LightsActivity extends AppCompatActivity {
                     lightsState.setText(offText);
                     lightsSwitch.setChecked(false);
                 }
+                boolean automationState = dataSnapshot.child("lights").child("automated")
+                        .getValue(boolean.class);
+                if(automationState){
+                    lightsAutomationSwitch.setChecked(true);
+                }
+                else{
+                    lightsAutomationSwitch.setChecked(false);
+                }
             }
 
             @Override
